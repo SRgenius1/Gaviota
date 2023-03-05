@@ -1,0 +1,24 @@
+.owo {
+    height: 40vh;
+    width: 100%;
+}
+
+.text-block {
+    font-weight: 700;
+}
+
+.block-form-text {
+    margin-top: 57px;
+    margin-bottom: 29px;
+    font-size: 2.7rem;
+}
+
+.anchor-form {
+    text-decoration: none;
+}
+
+@media (max-width: 768px) {
+    .text-princ {
+        display: none;
+    }
+}

@@ -1,0 +1,37 @@
+.container-nav {
+
+}
+
+.container-info {
+
+}
+
+.dow-options {
+    text-align: center;
+}
+
+.gavi-img {
+    margin-top: 228px;
+}
+
+.sell-link {
+    text-decoration: none;
+    color: gray;
+}
+
+.sell-link:hover {
+    color: white;
+}
+
+@media (max-width: 600px) {
+    .options-form {
+        width: 100% !important;
+    }
+    .gavi-img {
+        display: none;
+    }
+
+    .gavi-container {
+        display: none;
+    }
+}
